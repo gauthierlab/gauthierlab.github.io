@@ -491,6 +491,11 @@ li.publication {
 	margin-bottom: 20px;
 }
 
+#graduate .span8 p,
+#alumni .span8 p {
+	font-size: 13px;
+}
+
 .page-header h3 a:hover {
 	text-decoration: none;
 }
