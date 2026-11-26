@@ -42,17 +42,6 @@ graduate:
     joined: ""
     email: ""
 
-  - name: Mikael Maraschin
-    role: Ph.D. Student
-    education:
-      - "B.Sc. Chemical Engineering, Federal Univ. of Santa Maria, Brazil"
-    photo: thumbs/mikael.png
-    links:
-      scholar: "https://scholar.google.com/citations?user=gjwkgCsAAAAJ&hl=en"
-      linkedin: "https://www.linkedin.com/in/mikael-maraschin"
-    research: ""
-    joined: ""
-    email: ""
 
   - name: Mahsa Askari
     role: Ph.D. Student
@@ -82,7 +71,7 @@ graduate:
     role: Ph.D. Student
     education:
       - "B.Sc. Biology, Texas A&M University"
-    photo: thumbs/Veena.png
+    photo: thumbs/Veena.jpg
     links:
       scholar: "https://scholar.google.com/citations?user=kuj8NF8AAAAJ&hl=en&oi=ao"
       linkedin: "https://www.linkedin.com/in/veena-chauhan-15a290182"
@@ -116,7 +105,7 @@ graduate:
     role: Ph.D. Student
     education:
       - "B.Sc. Physics at Abilene Christian University"
-    photo: thumbs/Minjun.png
+    photo: thumbs/Minjun.jpg
     links:
       linkedin: "https://www.linkedin.com/in/minjun-baik-213559244"
     research: ""
@@ -136,25 +125,30 @@ graduate:
     email: ""
 
 undergraduate:
-  - name: Salem Rice
+  - name: Sabrina de Breau
     affiliation: ""
-    major: ""
-    project: ""
-  - name: Lindsey Bostain
-    affiliation: ""
-    major: ""
-    project: ""
-  - name: Destin Maleka
-    affiliation: ""
-    major: ""
-    project: ""
-  - name: Sean McDonald
-    affiliation: "Abilene Christian Univ."
     major: ""
     project: ""
 
 # Sorted by year (newest first), then by name.
 alumni:
+  - name: Mikael Maraschin
+    degree: Ph.D.
+    year: 2027
+    photo: thumbs/mikael.jpg
+    links:
+      scholar: "https://scholar.google.com/citations?user=gjwkgCsAAAAJ&hl=en"
+      linkedin: "https://www.linkedin.com/in/mikael-maraschin"
+  - name: Caleb Pol
+    degree: "NSF REU student, summer 2026"
+    year: 2026
+    affiliation: "Universidad del Sagrado Corazón"
+    photo: ""
+  - name: Korinne Strausbaugh
+    degree: "NSF REU student, summer 2026"
+    year: 2026
+    affiliation: "Yale University"
+    photo: ""
   - name: Kyle Markel
     degree: B.S.
     year: 2025
@@ -186,10 +180,28 @@ alumni:
   - name: Allen Bushman
     degree: B.S.
     year: 2023
-    photo: thumbs/allenb.png
+    photo: thumbs/allenb.jpg
     links:
       linkedin: "https://www.linkedin.com/in/allen-bushman-797391206"
   - name: Shaina Field-Farias
     degree: B.S.
     year: 2023
+    photo: ""
+  # Former undergraduate researchers; degree and year not yet recorded.
+  - name: Salem Rice
+    degree: ""
+    year: ""
+    photo: ""
+  - name: Lindsey Bostain
+    degree: ""
+    year: ""
+    photo: ""
+  - name: Destin Maleka
+    degree: ""
+    year: ""
+    photo: ""
+  - name: Sean McDonald
+    degree: ""
+    year: ""
+    affiliation: "Abilene Christian Univ."
     photo: ""
