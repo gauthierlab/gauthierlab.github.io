@@ -331,6 +331,12 @@ li.publication {
 	margin-top: 40px;
 }
 
+#footer img.footer-logo {
+	width: 240px;
+	max-width: 90%;
+	height: auto;
+}
+
 #footer p,
 #footer address {
 	color: #BDBDBD;
