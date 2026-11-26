@@ -1,0 +1,195 @@
+# people.yml - the group roster. One record per person.
+# Sections:
+#   pi:            the principal investigator (a single record, not a list).
+#   graduate:      current graduate students (Ph.D. and Master's).
+#   undergraduate: current undergraduate researchers.
+#   alumni:        former members. Name, degree and year only; never list
+#                  where a person went afterwards.
+# Fields written as "" are placeholders. Fill them in when you know the value,
+# or leave them blank and the page will simply omit them (builders: skip empty
+# fields). Photos live in thumbs/ for now (location provisional).
+# Facts transcribed from people.html on the current site.
+
+pi:
+  name: Joe Gauthier
+  title: Assistant Professor of Chemical Engineering
+  education:
+    - "Postdoctoral Scholar, U.C. Berkeley/LBNL, 2021"
+    - "Ph.D. in Chemical Engineering, Stanford University, 2020"
+    - "B.S. in Chemical Engineering, The Ohio State University, 2015"
+  phone: 806-834-1447
+  email: joe.gauthier@ttu.edu
+  office: "IMSE 202FA, Texas Tech University, Lubbock, TX 79409"
+  photo: thumbs/joegauthier_headshot.jpeg
+  links:
+    cv: docs/JG_CV.pdf
+    scholar: "https://scholar.google.com/citations?user=MA2L0n0AAAAJ&hl=en"
+    linkedin: "https://www.linkedin.com/in/joseph-gauthier-40048569/"
+    orcid: ""
+  bio: ""
+
+graduate:
+  - name: Samuel Olusegun
+    role: Ph.D. Student
+    education:
+      - "M.Sc. Chemical Engineering, TTU"
+      - "B.Sc. Chemical Engineering, Obafemi Awolowo University"
+    photo: thumbs/sam.jpeg
+    links:
+      scholar: "https://scholar.google.com/citations?user=jG4z9F8AAAAJ&hl=en"
+      linkedin: "https://www.linkedin.com/in/samuel-olusegun-01250210a/"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Mikael Maraschin
+    role: Ph.D. Student
+    education:
+      - "B.Sc. Chemical Engineering, Federal Univ. of Santa Maria, Brazil"
+    photo: thumbs/mikael.png
+    links:
+      scholar: "https://scholar.google.com/citations?user=gjwkgCsAAAAJ&hl=en"
+      linkedin: "https://www.linkedin.com/in/mikael-maraschin"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Mahsa Askari
+    role: Ph.D. Student
+    education:
+      - "M.Sc. Chemical Engineering, Tarbiat Modares Univ., Iran"
+      - "B.Sc. Chemical Engineering, Hamedan Univ. of Technology, Iran"
+    photo: thumbs/mahsa.jpg
+    links:
+      linkedin: "https://www.linkedin.com/in/mahsa-askari-4b179332"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Luis Zimmermann Feistel
+    role: Ph.D. Student
+    education:
+      - "MBA Data Science, Univ. of São Paulo"
+      - "M.Sc. & B.Sc. Chemical Engineering, Brazil"
+    photo: thumbs/Luis.png
+    links:
+      linkedin: "https://www.linkedin.com/in/luisfeistel"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Veena Chauhan
+    role: Ph.D. Student
+    education:
+      - "B.Sc. Biology, Texas A&M University"
+    photo: thumbs/Veena.png
+    links:
+      scholar: "https://scholar.google.com/citations?user=kuj8NF8AAAAJ&hl=en&oi=ao"
+      linkedin: "https://www.linkedin.com/in/veena-chauhan-15a290182"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Natasha Basu
+    role: "Master's Research Assistant"
+    education:
+      - "B.Eng. Chemical Engineering, BITS Pilani Dubai Campus, UAE"
+    photo: thumbs/Natasha.jpg
+    links:
+      linkedin: "https://www.linkedin.com/in/natasha-basu-966301226/"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Princess Yiadom
+    role: Ph.D. Student
+    education:
+      - "B.Sc. Petrochemical Engineering, KNUST – Ghana"
+    photo: thumbs/princess.jpg
+    links:
+      linkedin: "https://www.linkedin.com/in/princess-yiadom"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Minjun Baik
+    role: Ph.D. Student
+    education:
+      - "B.Sc. Physics at Abilene Christian University"
+    photo: thumbs/Minjun.png
+    links:
+      linkedin: "https://www.linkedin.com/in/minjun-baik-213559244"
+    research: ""
+    joined: ""
+    email: ""
+
+  - name: Md. Intesar Farhan Labib
+    role: Ph.D. Student
+    education:
+      - "B.Sc. Chemical Engineering, Bangladesh University of Engineering and Technology"
+    photo: thumbs/Labib.jpg
+    links:
+      scholar: "https://scholar.google.com/citations?user=U5bFCScAAAAJ&hl=en&oi=ao"
+      linkedin: "https://www.linkedin.com/in/md-intesar-farhan-labib-096029iscndcbuetttu"
+    research: ""
+    joined: ""
+    email: ""
+
+undergraduate:
+  - name: Salem Rice
+    affiliation: ""
+    major: ""
+    project: ""
+  - name: Lindsey Bostain
+    affiliation: ""
+    major: ""
+    project: ""
+  - name: Destin Maleka
+    affiliation: ""
+    major: ""
+    project: ""
+  - name: Sean McDonald
+    affiliation: "Abilene Christian Univ."
+    major: ""
+    project: ""
+
+# Sorted by year (newest first), then by name.
+alumni:
+  - name: Kyle Markel
+    degree: B.S.
+    year: 2025
+    photo: thumbs/Kyle_Markel.jpg
+    links:
+      linkedin: "https://www.linkedin.com/in/kmarkel"
+  - name: Lane Behnke
+    degree: B.S.
+    year: 2025
+    photo: ""
+  - name: Leeson Weaver
+    degree: B.S.
+    year: 2025
+    photo: ""
+  - name: Alena Jairamsingh
+    degree: B.S.
+    year: 2024
+    photo: ""
+  - name: Nithin Lalith
+    degree: B.S.
+    year: 2024
+    photo: ""
+  - name: Reagan Huckabee
+    degree: B.S.
+    year: 2024
+    photo: thumbs/Reagan.jpg
+    links:
+      linkedin: "https://www.linkedin.com/in/reagan-huckabee"
+  - name: Allen Bushman
+    degree: B.S.
+    year: 2023
+    photo: thumbs/allenb.png
+    links:
+      linkedin: "https://www.linkedin.com/in/allen-bushman-797391206"
+  - name: Shaina Field-Farias
+    degree: B.S.
+    year: 2023
+    photo: ""

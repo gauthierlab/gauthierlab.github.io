@@ -1,0 +1,118 @@
+# news.yml - dated news items, newest first.
+# Every item is a draft drawn only from docs/JG_CV.pdf. Nothing is published
+# until the PI approves it and changes status from "draft" to "published".
+# Items whose CV entry gives only a year are dated by year (YYYY); within a
+# year they are listed after the items that carry a month.
+# link: DOI URLs were read from the link annotations in the CV PDF.
+
+- date: "2026-04"
+  title: "Invited seminar at the University of Kentucky"
+  body: "Joe Gauthier presented \"Extending the reach of density functional theory: capturing charge transfer and making electrons behave\" at the Department of Chemical Engineering, Lexington, KY."
+  link: ""
+  category: talk
+  status: draft
+  source: "CV p.2-3, Invited Talks and Seminars [28]"
+
+- date: "2026-03"
+  title: "Two talks at the ACS Spring National Meeting"
+  body: "In Atlanta, GA, the talk titles were \"Understanding the mechanism of glycine oxidation: Pathway towards nutrient recovery from waste sludge\" and \"A painfully needed benchmark for evaluating density functionals in electrocatalysis\"."
+  link: ""
+  category: talk
+  status: draft
+  source: "CV p.3, Invited Talks and Seminars [24]"
+
+- date: "2026-03"
+  title: "Joe Gauthier named Sanderson Faculty Fellow"
+  body: "Joe Gauthier holds an appointment as Sanderson Faculty Fellow at Texas Tech University, beginning in March 2026."
+  link: ""
+  category: award
+  status: draft
+  source: "CV p.1, header and Appointments"
+
+- date: "2026"
+  title: "Joe Gauthier receives an NSF CAREER Award"
+  body: "The CV lists the NSF CAREER Award among Joe Gauthier's honors for 2026."
+  link: ""
+  category: award
+  status: draft
+  source: "CV p.1, Selected Honors and Awards"
+
+- date: "2026"
+  title: "New paper in J. Phys. Chem. C on activity-stability relationships in rutile oxides"
+  body: "M. Maraschin and J.A. Gauthier published \"Unraveling fundamental activity-stability relationships in rutile oxides\" in J. Phys. Chem. C (volume 130, issue 10, pages 3803-3813)."
+  link: "https://doi.org/10.1021/acs.jpcc.5c08777"
+  category: paper
+  status: draft
+  source: "CV p.4, Papers in Refereed Journals [44]"
+
+- date: "2025"
+  title: "New paper in Chemical Engineering Journal on CO2 capture and conversion"
+  body: "R. Sartape, V.V. Gande, R.R. Bhawnani, L. H-Z. Feistel, J.A. Gauthier and M.R. Singh published \"Nonaqueous Electrochemical Reactive CO2 Capture and Conversion of 10% CO2 Feed to Mixed Carboxylic Acids\" (volume 526, article 171274)."
+  link: "https://doi.org/10.1016/j.cej.2025.171274"
+  category: paper
+  status: draft
+  source: "CV p.4, Papers in Refereed Journals [43]"
+
+- date: "2025"
+  title: "New paper in ACS Energy Letters on roughness-enhanced multicarbon selectivity"
+  body: "J.H. Stenlid, J.A. Gauthier, M. Head-Gordon, A.T. Bell and F. Abild-Pedersen published \"Atomic Origins of Roughness-Enhanced Multicarbon Selectivity in Copper-Catalyzed CO2 Electroreduction\" (volume 10, pages 4730-4739)."
+  link: "https://doi.org/10.1021/acsenergylett.5c02126"
+  category: paper
+  status: draft
+  source: "CV p.4, Papers in Refereed Journals [42]"
+
+- date: "2025"
+  title: "New paper in ACS Energy Letters: The Intricacies of Computational Electrochemistry"
+  body: "N. Govindarajan, G. Kastlunger, J.A. Gauthier and co-authors published \"The Intricacies of Computational Electrochemistry\" (volume 10, pages 4277-4288)."
+  link: "https://doi.org/10.1021/acsenergylett.5c00748"
+  category: paper
+  status: draft
+  source: "CV p.4, Papers in Refereed Journals [41]"
+
+- date: "2025"
+  title: "New paper in PCCP on catalytic upcycling of polyolefins"
+  body: "J. Ortega, M. Maraschin, G.G. Botte and J.A. Gauthier published \"Theoretical determination of a model molecule for the catalytic upcycling of polyolefins\" in Physical Chemistry Chemical Physics (volume 27, pages 11405-11412)."
+  link: "https://doi.org/10.1039/D4CP04663C"
+  category: paper
+  status: draft
+  source: "CV p.5, Papers in Refereed Journals [40]"
+
+- date: "2025"
+  title: "New paper in EES Catalysis on dinitrogen activation"
+  body: "V.V. Gande, N.C. Kani, I. Goyal, R. Chauhan, Y. Qi, S.A. Olusegun, J.A. Gauthier and M.R. Singh published \"Advancements in Dinitrogen Activation for Catalytic Breakthroughs\" (volume 3, pages 883-920)."
+  link: "https://doi.org/10.1039/D5EY00033E"
+  category: paper
+  status: draft
+  source: "CV p.5, Papers in Refereed Journals [39]"
+
+- date: "2025"
+  title: "New paper in Chemical Engineering Journal on magnetically enhanced CO2 conversion to formate"
+  body: "J.A. Abarca and co-authors, including J.A. Gauthier, published \"Magnetically enhanced electrochemical conversion of CO2 to formate: Experimental studies\" (volume 515, article 163614)."
+  link: ""
+  category: paper
+  status: draft
+  source: "CV p.5, Papers in Refereed Journals [38]"
+
+- date: "2025"
+  title: "New paper in Current Opinion in Electrochemistry on the electric double layer"
+  body: "M. Maraschin, S.A. Olusegun, M. Askari, L.F. Zimmerman, J.A. Ortega, V. Chauhan and J.A. Gauthier published \"Recent developments in modeling the electric double layer with density functional theory\" (article 101654)."
+  link: "https://doi.org/10.1016/j.coelec.2025.101654"
+  category: paper
+  status: draft
+  source: "CV p.5, Papers in Refereed Journals [37]"
+
+- date: "2025"
+  title: "New paper in RSC Sustainable Energy and Fuels on urea electrosynthesis"
+  body: "N.C. Kani, I. Goyal, S.A. Olusegun, R.R. Bhawnani, J.A. Gauthier and M.R. Singh published \"Screening transition metal electrodes for achieving near 100% selectivity to urea via electroreduction of NO3- and CO2 at 100 mA cm-2 current density\" (volume 9, pages 115-128)."
+  link: "https://doi.org/10.1039/D4SE00841C"
+  category: paper
+  status: draft
+  source: "CV p.5, Papers in Refereed Journals [36]"
+
+- date: "2024"
+  title: "Joe Gauthier receives the Whitacre Engineering Research Award"
+  body: "The CV lists the Whitacre Engineering Research Award (Texas Tech University) among Joe Gauthier's honors for 2024."
+  link: ""
+  category: award
+  status: draft
+  source: "CV p.1, Selected Honors and Awards"

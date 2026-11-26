@@ -1,0 +1,967 @@
+# Generated from Crossref (doi.org records) vs. publications.html; see publications_discrepancies.md
+published:
+- doi: 10.1021/acs.jpcc.5c08777
+  title: Unraveling Fundamental Activity–Stability Relationships in Rutile Oxides
+  authors:
+  - M. Maraschin
+  - J. A. Gauthier
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2026
+  year_online: 2026
+  volume: '130'
+  issue: '10'
+  pages: 3803-3813
+  site_year: 2026
+  group_authors:
+  - M. Maraschin
+  pi_position: last
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1016/j.cej.2025.171274
+  title: Nonaqueous electrochemical reactive CO2 capture and conversion of 10 % CO2 feed to mixed carboxylic acids
+  authors:
+  - R. Sartape
+  - L. F. Zimmermann
+  - P. Sharan
+  - V. V. Gande
+  - R. R. Bhawnani
+  - S. Johnson
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: Chemical Engineering Journal
+  journal_abbrev: Chem. Eng. J.
+  year: 2025
+  volume: '526'
+  pages: '171274'
+  site_year: 2025
+  group_authors:
+  - L. F. Zimmermann
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1021/acsenergylett.5c02126
+  title: Atomic Origins of Roughness-Enhanced Multicarbon Selectivity in Copper-Catalyzed CO<sub>2</sub> Electroreduction
+  authors:
+  - J. Halldin Stenlid
+  - J. A. Gauthier
+  - M. Head-Gordon
+  - A. T. Bell
+  - F. Abild-Pedersen
+  journal: ACS Energy Letters
+  journal_abbrev: ACS Energy Lett.
+  year: 2025
+  year_online: 2025
+  volume: '10'
+  issue: '9'
+  pages: 4730-4739
+  site_year: 2025
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/aelccp1.jpg
+- doi: 10.1021/acsenergylett.5c00748
+  title: The Intricacies of Computational Electrochemistry
+  authors:
+  - N. Govindarajan
+  - G. Kastlunger
+  - J. A. Gauthier
+  - J. Cheng
+  - I. Filot
+  - A. Hagopian
+  - H. A. Hansen
+  - J. Huang
+  - P. M. Kowalski
+  - J. Liu
+  - J. M. Lombardi
+  - M. Maraschin
+  - A. Peterson
+  - H. S. Pillai
+  - H. Prats
+  - C. J. Price
+  - R. van Roij
+  - J. Rossmeisl
+  - R. R. Seemakurthi
+  - S.-J. Shin
+  - A. Smith
+  - J.-X. Zhu
+  - K. Doblhoff-Dier
+  journal: ACS Energy Letters
+  journal_abbrev: ACS Energy Lett.
+  year: 2025
+  year_online: 2025
+  volume: '10'
+  issue: '9'
+  pages: 4277-4288
+  site_year: 2025
+  group_authors:
+  - M. Maraschin
+  pi_position: middle
+  thumbnail: thumbs/aelccp1.jpg
+- doi: 10.1016/j.cej.2025.163614
+  title: 'Magnetically enhanced electrochemical conversion of CO2 to formate: Experimental studies'
+  authors:
+  - J. A. Abarca
+  - X. Wu
+  - C. González-Fernández
+  - I. H. Karampelas
+  - A. Gutierrez-Carballo
+  - J. A. Gauthier
+  - G. G. Botte
+  - J. Solla-Gullon
+  - G. Díaz-Sainz
+  - A. Irabien
+  - J. Gomez-Pastora
+  journal: Chemical Engineering Journal
+  journal_abbrev: Chem. Eng. J.
+  year: 2025
+  volume: '515'
+  pages: '163614'
+  site_year: 2025
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1016/j.coelec.2025.101654
+  title: Recent developments in modeling the electric double layer with density functional theory
+  authors:
+  - M. Maraschin
+  - M. Askari
+  - V. S. Chauhan
+  - L. H. Z. Feistel
+  - S. A. Olusegun
+  - J. Ortega-Ramos
+  - J. A. Gauthier
+  journal: Current Opinion in Electrochemistry
+  journal_abbrev: Curr. Opin. Electrochem.
+  year: 2025
+  volume: '50'
+  pages: '101654'
+  site_year: 2025
+  group_authors:
+  - M. Maraschin
+  - M. Askari
+  - V. S. Chauhan
+  - L. H. Z. Feistel
+  - S. A. Olusegun
+  - J. Ortega-Ramos
+  pi_position: last
+  thumbnail: thumbs/coe1.jpg
+- doi: 10.1039/d4se00841c
+  title: Screening transition metal electrodes for achieving near 100% selectivity to urea <i>via</i> electroreduction of NO<sub>3</sub><sup>−</sup> and CO<sub>2</sub> at 100 mA cm<sup>−2</sup> current density
+  authors:
+  - N. C. Kani
+  - I. Goyal
+  - S. A. Olusegun
+  - S. Chinnabattigalla
+  - R. R. Bhawnani
+  - K. D. Glusac
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: Sustainable Energy &amp; Fuels
+  journal_abbrev: Sustainable Energy Fuels
+  year: 2025
+  year_online: 2025
+  volume: '9'
+  issue: '1'
+  pages: 115-128
+  site_year: 2025
+  group_authors:
+  - S. A. Olusegun
+  pi_position: middle
+  thumbnail: thumbs/Get1.jpg
+- doi: 10.1039/d4cp04663c
+  title: Theoretical determination of a model molecule for the catalytic upcycling of polyethylene and polypropylene
+  authors:
+  - J. Ortega-Ramos
+  - M. Maraschin
+  - G. G. Botte
+  - J. A. Gauthier
+  journal: Physical Chemistry Chemical Physics
+  journal_abbrev: Phys. Chem. Chem. Phys.
+  year: 2025
+  year_online: 2025
+  volume: '27'
+  issue: '21'
+  pages: 11405-11412
+  site_year: 2025
+  group_authors:
+  - J. Ortega-Ramos
+  - M. Maraschin
+  pi_position: last
+  thumbnail: thumbs/pccp.jpg
+- doi: 10.1039/d5ey00033e
+  title: Advancements in dinitrogen activation for catalytic breakthroughs
+  authors:
+  - V. V. Gande
+  - N. C. Kani
+  - I. Goyal
+  - R. Chauhan
+  - Y. Qi
+  - S. A. Olusegun
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: EES Catalysis
+  journal_abbrev: EES Catal.
+  year: 2025
+  year_online: 2025
+  volume: '3'
+  issue: '5'
+  pages: 883-920
+  site_year: 2025
+  group_authors:
+  - S. A. Olusegun
+  pi_position: middle
+  thumbnail: thumbs/ees1.jpeg
+- doi: 10.1021/acscatal.4c05036
+  title: Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides
+  authors:
+  - S. A. Olusegun
+  - Y. Qi
+  - N. C. Kani
+  - M. R. Singh
+  - J. A. Gauthier
+  journal: ACS Catalysis
+  journal_abbrev: ACS Catal.
+  year: 2024
+  year_online: 2024
+  volume: '14'
+  issue: '22'
+  pages: 16885-16896
+  site_year: 2024
+  group_authors:
+  - S. A. Olusegun
+  pi_position: last
+  thumbnail: thumbs/acscatal.jpg
+- doi: 10.1021/acsenergylett.4c01455
+  title: Metal Nitride as a Mediator for the Electrochemical Synthesis of NH<sub>3</sub>
+  authors:
+  - I. Goyal
+  - N. C. Kani
+  - S. A. Olusegun
+  - S. Chinnabattigalla
+  - R. R. Bhawnani
+  - K. D. Glusac
+  - A. R. Singh
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: ACS Energy Letters
+  journal_abbrev: ACS Energy Lett.
+  year: 2024
+  year_online: 2024
+  volume: '9'
+  issue: '8'
+  pages: 4188-4195
+  site_year: 2024
+  group_authors:
+  - S. A. Olusegun
+  pi_position: middle
+  thumbnail: thumbs/aelccp1.jpg
+- doi: 10.1002/cphc.202400507
+  title: Modeling Heterogeneous Catalysis and Electrocatalysis
+  authors:
+  - S. Mallikarjun Sharada
+  - J. A. Gauthier
+  journal: ChemPhysChem
+  journal_abbrev: ChemPhysChem
+  year: 2024
+  year_online: 2024
+  volume: '25'
+  issue: '15'
+  pages: e202400507
+  site_year: 2024
+  group_authors: []
+  pi_position: last
+  thumbnail: thumbs/cphc1.jpg
+- doi: 10.1021/acs.jpcc.4c01336
+  title: A Simple Evaluation of Adiabatic Proton Tunneling across the Electrified Double Layer
+  authors:
+  - M. Askari
+  - R. C. Huckabee
+  - J. A. Gauthier
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2024
+  year_online: 2024
+  volume: '128'
+  issue: '30'
+  pages: 12386-12398
+  site_year: 2024
+  group_authors:
+  - M. Askari
+  - R. C. Huckabee
+  pi_position: last
+  thumbnail: thumbs/jpcc1.jpg
+- doi: 10.1002/cphc.202300933
+  title: The Importance of Reaction Energy in Predicting Chemical Reaction Barriers with Machine Learning Models
+  authors:
+  - N. Lalith
+  - A. R. Singh
+  - J. A. Gauthier
+  journal: ChemPhysChem
+  journal_abbrev: ChemPhysChem
+  year: 2024
+  year_online: 2024
+  volume: '25'
+  issue: '13'
+  pages: e202300933
+  site_year: 2024
+  group_authors:
+  - N. Lalith
+  pi_position: last
+  thumbnail: thumbs/cphc1.jpg
+- doi: 10.1016/j.xcrp.2024.102013
+  title: Sub-volt conversion of activated biochar and water for H2 production near equilibrium via biochar-assisted water electrolysis
+  authors:
+  - N. C. Kani
+  - R. Chauhan
+  - S. A. Olusegun
+  - I. Sharan
+  - A. Katiyar
+  - D. W. House
+  - S.-W. Lee
+  - A. Jairamsingh
+  - R. R. Bhawnani
+  - D. Choi
+  - A. C. Nielander
+  - T. F. Jaramillo
+  - H.-S. Lee
+  - A. Oroskar
+  - V. C. Srivastava
+  - S. Sinha
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: Cell Reports Physical Science
+  journal_abbrev: Cell Rep. Phys. Sci.
+  year: 2024
+  volume: '5'
+  issue: '6'
+  pages: '102013'
+  site_year: 2024
+  group_authors:
+  - S. A. Olusegun
+  - A. Jairamsingh
+  pi_position: middle
+  thumbnail: thumbs/cell_rep.jpeg
+- doi: 10.1021/acsami.3c19499
+  title: Pathway toward Scalable Energy-Efficient Li-Mediated Ammonia Synthesis
+  authors:
+  - N. C. Kani
+  - I. Goyal
+  - J. A. Gauthier
+  - W. Shields
+  - M. Shields
+  - M. R. Singh
+  journal: ACS Applied Materials &amp; Interfaces
+  journal_abbrev: ACS Appl. Mater. Interfaces
+  year: 2024
+  year_online: 2024
+  volume: '16'
+  issue: '13'
+  pages: 16203-16212
+  site_year: 2024
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/acsami.jpg
+- doi: 10.1039/d3ey00284e
+  title: 'High-pressure electrochemistry: a new frontier in decarbonization'
+  authors:
+  - N. C. Kani
+  - S. Olusegun
+  - R. Chauhan
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: EES Catalysis
+  journal_abbrev: EES Catal.
+  year: 2024
+  year_online: 2024
+  volume: '2'
+  issue: '2'
+  pages: 507-521
+  site_year: 2024
+  group_authors:
+  - S. Olusegun
+  pi_position: middle
+  thumbnail: thumbs/ees1.jpeg
+- doi: 10.1039/d3sc05791g
+  title: Understanding ion-transfer reactions in silver electrodissolution and electrodeposition from first-principles calculations and experiments
+  authors:
+  - R. Kang
+  - Y. Zhao
+  - D. Hait
+  - J. A. Gauthier
+  - P. A. Kempler
+  - K. A. Thurman
+  - S. W. Boettcher
+  - M. Head-Gordon
+  journal: Chemical Science
+  journal_abbrev: Chem. Sci.
+  year: 2024
+  year_online: 2024
+  volume: '15'
+  issue: '13'
+  pages: 4996-5008
+  site_year: 2024
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/Get.jpg
+- doi: 10.1002/aenm.202204236
+  title: Electrochemical Reduction of Nitrates on CoO Nanoclusters‐Functionalized Graphene with Highest Mass Activity and Nearly 100% Selectivity to Ammonia
+  authors:
+  - N. C. Kani
+  - N. H. L. Nguyen
+  - K. Markel
+  - R. R. Bhawnani
+  - B. Shindel
+  - K. Sharma
+  - S. Kim
+  - V. P. Dravid
+  - V. Berry
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: Advanced Energy Materials
+  journal_abbrev: Adv. Energy Mater.
+  year: 2023
+  year_online: 2023
+  volume: '13'
+  issue: '17'
+  pages: '2204236'
+  site_year: 2023
+  group_authors:
+  - K. Markel
+  pi_position: middle
+  thumbnail: thumbs/aenm.jpg
+- doi: 10.1002/anie.202215938
+  title: Achievements, Challenges, and Perspectives on Nitrogen Electrochemistry for Carbon‐Neutral Energy Technologies
+  authors:
+  - X. Yang
+  - S. Mukherjee
+  - T. O'Carroll
+  - Y. Hou
+  - M. R. Singh
+  - J. A. Gauthier
+  - G. Wu
+  journal: Angewandte Chemie International Edition
+  journal_abbrev: Angew. Chem. Int. Ed.
+  year: 2023
+  year_online: 2022
+  volume: '62'
+  issue: '10'
+  pages: e202215938
+  site_year: 2023
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/ange.jpg
+- doi: 10.1021/acscatal.2c03619
+  title: Chloride-Promoted High-Rate Ambient Electrooxidation of Methane to Methanol on Patterned Cu–Ti Bimetallic Oxides
+  authors:
+  - A. Prajapati
+  - R. Sartape
+  - N. C. Kani
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: ACS Catalysis
+  journal_abbrev: ACS Catal.
+  year: 2022
+  year_online: 2022
+  volume: '12'
+  issue: '22'
+  pages: 14321-14329
+  site_year: 2022
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/acscatal.jpg
+- doi: 10.1016/j.xcrp.2022.101053
+  title: CO2-free high-purity ethylene from electroreduction of CO2 with 4% solar-to-ethylene and 10% solar-to-carbon efficiencies
+  authors:
+  - A. Prajapati
+  - N. C. Kani
+  - J. A. Gauthier
+  - R. Sartape
+  - J. Xie
+  - I. Bessa
+  - M. T. Galante
+  - S. L. Leung
+  - M. H. S. Andrade
+  - R. T. Somich
+  - M. V. Rebouças
+  - G. T. Hutras
+  - N. Diniz
+  - M. R. Singh
+  journal: Cell Reports Physical Science
+  journal_abbrev: Cell Rep. Phys. Sci.
+  year: 2022
+  volume: '3'
+  issue: '9'
+  pages: '101053'
+  site_year: 2022
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/cell_rep.jpeg
+- doi: 10.1021/acs.jpclett.2c01367
+  title: Force-Based Method to Determine the Potential Dependence in Electrochemical Barriers
+  authors:
+  - S. Vijay
+  - G. Kastlunger
+  - J. A. Gauthier
+  - A. Patel
+  - K. Chan
+  journal: The Journal of Physical Chemistry Letters
+  journal_abbrev: J. Phys. Chem. Lett.
+  year: 2022
+  year_online: 2022
+  volume: '13'
+  issue: '25'
+  pages: 5719-5725
+  site_year: 2022
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1021/acsenergylett.2c00167
+  title: Pathways for the Formation of C<sub>2+</sub> Products under Alkaline Conditions during the Electrochemical Reduction of CO<sub>2</sub>
+  authors:
+  - J. A. Gauthier
+  - Z. Lin
+  - M. Head-Gordon
+  - A. T. Bell
+  journal: ACS Energy Letters
+  journal_abbrev: ACS Energy Lett.
+  year: 2022
+  year_online: 2022
+  volume: '7'
+  issue: '5'
+  pages: 1679-1686
+  site_year: 2022
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/acs1.png
+- doi: 10.1039/d2ee01485h
+  title: 'The mechanism for acetate formation in electrochemical CO<sub>(2)</sub> reduction on Cu: selectivity with potential, pH, and nanostructuring'
+  authors:
+  - H. H. Heenen
+  - H. Shin
+  - G. Kastlunger
+  - S. Overa
+  - J. A. Gauthier
+  - F. Jiao
+  - K. Chan
+  journal: Energy &amp; Environmental Science
+  journal_abbrev: Energy Environ. Sci.
+  year: 2022
+  year_online: 2022
+  volume: '15'
+  issue: '9'
+  pages: 3978-3990
+  site_year: 2022
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/ees1.jpeg
+- doi: 10.1021/acsenergylett.1c01485
+  title: The Role of Roughening to Enhance Selectivity to C<sub>2+</sub> Products during CO<sub>2</sub> Electroreduction on Copper
+  authors:
+  - J. A. Gauthier
+  - J. H. Stenlid
+  - F. Abild-Pedersen
+  - M. Head-Gordon
+  - A. T. Bell
+  journal: ACS Energy Letters
+  journal_abbrev: ACS Energy Lett.
+  year: 2021
+  year_online: 2021
+  volume: '6'
+  issue: '9'
+  pages: 3252-3260
+  site_year: 2021
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/acs1.png
+- doi: 10.1039/d1ee01879e
+  title: Solar-driven electrochemical synthesis of ammonia using nitrate with 11% solar-to-fuel efficiency at ambient conditions
+  authors:
+  - N. C. Kani
+  - J. A. Gauthier
+  - A. Prajapati
+  - J. Edgington
+  - I. Bordawekar
+  - W. Shields
+  - M. Shields
+  - L. C. Seitz
+  - A. R. Singh
+  - M. R. Singh
+  journal: Energy &amp; Environmental Science
+  journal_abbrev: Energy Environ. Sci.
+  year: 2021
+  year_online: 2021
+  volume: '14'
+  issue: '12'
+  pages: 6349-6359
+  site_year: 2021
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/ees1.jpeg
+- doi: 10.1039/d0cp03821k
+  title: 'Challenges for density functional theory: calculation of CO adsorption on electrocatalytically relevant metals'
+  authors:
+  - C. N. Lininger
+  - J. A. Gauthier
+  - W.-L. Li
+  - E. Rossomme
+  - V. V. Welborn
+  - Z. Lin
+  - T. Head-Gordon
+  - M. Head-Gordon
+  - A. T. Bell
+  journal: Physical Chemistry Chemical Physics
+  journal_abbrev: Phys. Chem. Chem. Phys.
+  year: 2021
+  year_online: 2021
+  volume: '23'
+  issue: '15'
+  pages: 9394-9406
+  site_year: 2021
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/pccp.jpg
+- doi: 10.1021/acs.jpcc.0c07004
+  title: Atomistic Insight into Cation Effects on Binding Energies in Cu-Catalyzed Carbon Dioxide Reduction
+  authors:
+  - T. Ludwig
+  - J. A. Gauthier
+  - C. F. Dickens
+  - K. S. Brown
+  - S. Ringe
+  - K. Chan
+  - J. K. Nørskov
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2020
+  year_online: 2020
+  volume: '124'
+  issue: '45'
+  pages: 24765-24775
+  site_year: 2020
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1021/acscatal.0c01375
+  title: Dipole-Field Interactions Determine the CO<sub>2</sub> Reduction Activity of 2D Fe–N–C Single-Atom Catalysts
+  authors:
+  - S. Vijay
+  - J. A. Gauthier
+  - H. H. Heenen
+  - V. J. Bukas
+  - H. H. Kristoffersen
+  - K. Chan
+  journal: ACS Catalysis
+  journal_abbrev: ACS Catal.
+  year: 2020
+  year_online: 2020
+  volume: '10'
+  issue: '14'
+  pages: 7826-7835
+  site_year: 2020
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/acscatal.jpg
+- doi: 10.1063/1.5144912
+  title: 'Solvation at metal/water interfaces: An <i>ab initio</i> molecular dynamics benchmark of common computational approaches'
+  authors:
+  - H. H. Heenen
+  - J. A. Gauthier
+  - H. H. Kristoffersen
+  - T. Ludwig
+  - K. Chan
+  journal: The Journal of Chemical Physics
+  journal_abbrev: J. Chem. Phys.
+  year: 2020
+  year_online: 2020
+  volume: '152'
+  issue: '14'
+  pages: '144703'
+  site_year: 2020
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/jcp.jpg
+- doi: 10.1039/c9cp05751j
+  title: Micro-kinetic model of electrochemical carbon dioxide reduction over platinum in non-aqueous solvents
+  authors:
+  - B. A. Rohr
+  - A. R. Singh
+  - J. A. Gauthier
+  - M. J. Statt
+  - J. K. Nørskov
+  journal: Physical Chemistry Chemical Physics
+  journal_abbrev: Phys. Chem. Chem. Phys.
+  year: 2020
+  year_online: 2020
+  volume: '22'
+  issue: '16'
+  pages: 9040-9045
+  site_year: 2020
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/pccp.jpg
+- doi: 10.1039/c9cp05952k
+  title: Implications of the fractional charge of hydroxide at the electrochemical interface
+  authors:
+  - J. A. Gauthier
+  - L. D. Chen
+  - M. Bajdich
+  - K. Chan
+  journal: Physical Chemistry Chemical Physics
+  journal_abbrev: Phys. Chem. Chem. Phys.
+  year: 2020
+  year_online: 2020
+  volume: '22'
+  issue: '13'
+  pages: 6964-6969
+  site_year: 2020
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/pccp.jpg
+- doi: 10.1021/acs.jctc.9b00717
+  title: Unified Approach to Implicit and Explicit Solvent Simulations of Electrochemical Reaction Energetics
+  authors:
+  - J. A. Gauthier
+  - C. F. Dickens
+  - H. H. Heenen
+  - S. Vijay
+  - S. Ringe
+  - K. Chan
+  journal: Journal of Chemical Theory and Computation
+  journal_abbrev: J. Chem. Theory Comput.
+  year: 2019
+  year_online: 2019
+  volume: '15'
+  issue: '12'
+  pages: 6895-6906
+  site_year: 2019
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/jctc.jpg
+- doi: 10.1021/acs.jpcc.9b10205
+  title: Facile Electron Transfer to CO<sub>2</sub> during Adsorption at the Metal|Solution Interface
+  authors:
+  - J. A. Gauthier
+  - M. Fields
+  - M. Bajdich
+  - L. D. Chen
+  - R. B. Sandberg
+  - K. Chan
+  - J. K. Nørskov
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2019
+  year_online: 2019
+  volume: '123'
+  issue: '48'
+  pages: 29278-29283
+  site_year: 2019
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1002/cphc.201900536
+  title: Practical Considerations for Continuum Models Applied to Surface Electrochemistry
+  authors:
+  - J. A. Gauthier
+  - C. F. Dickens
+  - S. Ringe
+  - K. Chan
+  journal: ChemPhysChem
+  journal_abbrev: ChemPhysChem
+  year: 2019
+  year_online: 2019
+  volume: '20'
+  issue: '22'
+  pages: 3074-3080
+  site_year: 2019
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/cpc.jpeg
+- doi: 10.1021/acs.jpcc.9b05738
+  title: Transition Metal Arsenide Catalysts for the Hydrogen Evolution Reaction
+  authors:
+  - J. A. Gauthier
+  - L. A. King
+  - F. T. Stults
+  - R. A. Flores
+  - J. Kibsgaard
+  - Y. N. Regmi
+  - K. Chan
+  - T. F. Jaramillo
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2019
+  year_online: 2019
+  volume: '123'
+  issue: '39'
+  pages: 24007-24012
+  site_year: 2019
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1007/s10562-019-02705-x
+  title: Predicting Chemical Reaction Barriers with a Machine Learning Model
+  authors:
+  - A. R. Singh
+  - B. A. Rohr
+  - J. A. Gauthier
+  - J. K. Nørskov
+  journal: Catalysis Letters
+  journal_abbrev: Catal. Lett.
+  year: 2019
+  year_online: 2019
+  volume: '149'
+  issue: '9'
+  pages: 2347-2354
+  site_year: 2019
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/catletters.jpeg
+- doi: 10.1002/cssc.201900617
+  title: Electrolyte Effects on the Stability of Ni−Mo Cathodes for the Hydrogen Evolution Reaction
+  authors:
+  - J. H. J. Wijten
+  - R. L. Riemersma
+  - J. Gauthier
+  - L. D. B. Mandemaker
+  - M. W. G. M. Verhoeven
+  - J. P. Hofmann
+  - K. Chan
+  - B. M. Weckhuysen
+  journal: ChemSusChem
+  journal_abbrev: ChemSusChem
+  year: 2019
+  year_online: 2019
+  volume: '12'
+  issue: '15'
+  pages: 3491-3500
+  site_year: 2019
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/chemsuschem.jpeg
+- doi: 10.1021/acs.jpcc.8b11571
+  title: Solvent–Adsorbate Interactions and Adsorbate-Specific Solvent Structure in Carbon Dioxide Reduction on a Stepped Cu Surface
+  authors:
+  - T. Ludwig
+  - J. A. Gauthier
+  - K. S. Brown
+  - S. Ringe
+  - J. K. Nørskov
+  - K. Chan
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2019
+  year_online: 2019
+  volume: '123'
+  issue: '10'
+  pages: 5999-6009
+  site_year: 2019
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1021/acscatal.8b02793
+  title: Challenges in Modeling Electrochemical Reaction Energetics with Polarizable Continuum Models
+  authors:
+  - J. A. Gauthier
+  - S. Ringe
+  - C. F. Dickens
+  - A. J. Garza
+  - A. T. Bell
+  - M. Head-Gordon
+  - J. K. Nørskov
+  - K. Chan
+  journal: ACS Catalysis
+  journal_abbrev: ACS Catal.
+  year: 2019
+  year_online: 2018
+  volume: '9'
+  issue: '2'
+  pages: 920-931
+  site_year: 2018
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/acscatal.jpg
+- doi: 10.1038/s41467-018-05511-y
+  title: Understanding the apparent fractional charge of protons in the aqueous electrochemical double layer
+  authors:
+  - L. D. Chen
+  - M. Bajdich
+  - J. M. P. Martirez
+  - C. M. Krauter
+  - J. A. Gauthier
+  - E. A. Carter
+  - A. C. Luntz
+  - K. Chan
+  - J. K. Nørskov
+  journal: Nature Communications
+  journal_abbrev: Nat. Commun.
+  year: 2018
+  year_online: 2018
+  volume: '9'
+  issue: '1'
+  pages: '3202'
+  site_year: 2018
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/natcomm.jpg
+- doi: 10.1021/acs.jpcc.7b02383
+  title: Solvation Effects for Oxygen Evolution Reaction Catalysis on IrO<sub>2</sub> (110)
+  authors:
+  - J. A. Gauthier
+  - C. F. Dickens
+  - L. D. Chen
+  - A. D. Doyle
+  - J. K. Nørskov
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2017
+  year_online: 2017
+  volume: '121'
+  issue: '21'
+  pages: 11455-11463
+  site_year: 2017
+  group_authors: []
+  pi_position: first
+  thumbnail: thumbs/jpcc.jpg
+submitted:
+- authors:
+  - S.J. Sahoo
+  - M. Maraschin
+  - D.S. Levine
+  - Z. Ulissi
+  - C.L. Zitnick
+  - J.B. Varley
+  - J.A. Gauthier
+  - N. Govindarajan
+  - M. Shuaibi
+  title: The Open Catalyst 2025 (OC25) Dataset for Solvated Interfaces.
+  status: Submitted
+- authors:
+  - J.A. Gauthier
+  - K. Bruening
+  - K.A. Ritter
+  - D. Tuckerman
+  - M.Q. Hovish
+  title: Dynamic changes in hydrogen evolution catalysis impose an upper bound on electrochemical hydrogen storage in Pd.
+  status: Submitted
+- authors:
+  - I. Goyal
+  - V.V. Gande
+  - M. Maraschin
+  - J.A. Gauthier
+  - M.R. Singh
+  title: Overcoming Thermal Barrier to Magnesium Nitride Formation for Efficient Electrochemical Conversion of N<sub>2</sub> and H<sub>2</sub> to Ammonia at Ambient Conditions.
+  status: Submitted
+- authors:
+  - D. Shin
+  - D.D. Lekamge
+  - B. Chen
+  - M. Maraschin
+  - T. Liu
+  - J.R. Wilkes
+  - A.B. Maurer
+  - W. Li
+  - T.J. Murray
+  - J. Guo
+  - J.A. Gauthier
+  - M.M. Waegele
+  - D. Wang
+  title: Oxidation Driven Metal-Oxygen Connectivity Improves Stability of IrOx as a Water Oxidation Catalyst.
+  status: Submitted
