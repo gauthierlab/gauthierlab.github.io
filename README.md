@@ -23,7 +23,14 @@ Figures used on the pages live in `images/`. People photos and journal cover thu
 
 ## Adding a publication
 
-Copy an existing entry block (the `<div class="row-fluid">` that holds the thumbnail, title, authors and journal link) in `publications.html`, paste it in the right year section, and edit the title, authors, journal text and both DOI links. Before saving, check the DOI by opening `https://doi.org/<doi>` in a browser and making sure it leads to the right paper.
+The journal list in `publications.html` (everything between the `BEGIN generated publications` and `END generated publications` comments) is generated from `_rebuild/data/publications.yml`. To add a paper:
+
+1. Add a record to `_rebuild/data/publications.yml` by copying an existing one and editing it. Take the title, authors, year, volume and pages from the publisher's page, and check the DOI by opening `https://doi.org/<doi>` in a browser.
+2. Run `python3 _rebuild/build_publications.py` from the repository root (it needs Python 3 with PyYAML).
+3. If the paper starts a new year, add that year to the sidebar list near the top of `publications.html`.
+4. Commit both the data file and `publications.html`.
+
+Names listed under `group_authors` in a record, and the PI, are shown in bold. The "Submitted Manuscripts" list at the bottom of the page is still edited by hand.
 
 ## Draft data for a rebuild
 

@@ -18,7 +18,7 @@ published:
   pi_position: last
   thumbnail: thumbs/jpcc.jpg
 - doi: 10.1016/j.cej.2025.171274
-  title: Nonaqueous electrochemical reactive CO2 capture and conversion of 10 % CO2 feed to mixed carboxylic acids
+  title: Nonaqueous electrochemical reactive CO<sub>2</sub> capture and conversion of 10% CO<sub>2</sub> feed to mixed carboxylic acids
   authors:
   - R. Sartape
   - L. F. Zimmermann
@@ -37,7 +37,7 @@ published:
   group_authors:
   - L. F. Zimmermann
   pi_position: middle
-  thumbnail: thumbs/jpcc.jpg
+  thumbnail: thumbs/cej.jpg
 - doi: 10.1021/acsenergylett.5c02126
   title: Atomic Origins of Roughness-Enhanced Multicarbon Selectivity in Copper-Catalyzed CO<sub>2</sub> Electroreduction
   authors:
@@ -56,7 +56,7 @@ published:
   site_year: 2025
   group_authors: []
   pi_position: middle
-  thumbnail: thumbs/aelccp1.jpg
+  thumbnail: thumbs/acsenergylett.jpg
 - doi: 10.1021/acsenergylett.5c00748
   title: The Intricacies of Computational Electrochemistry
   authors:
@@ -94,9 +94,9 @@ published:
   group_authors:
   - M. Maraschin
   pi_position: middle
-  thumbnail: thumbs/aelccp1.jpg
+  thumbnail: thumbs/acsenergylett.jpg
 - doi: 10.1016/j.cej.2025.163614
-  title: 'Magnetically enhanced electrochemical conversion of CO2 to formate: Experimental studies'
+  title: 'Magnetically enhanced electrochemical conversion of CO<sub>2</sub> to formate: Experimental studies'
   authors:
   - J. A. Abarca
   - X. Wu
@@ -117,7 +117,7 @@ published:
   site_year: 2025
   group_authors: []
   pi_position: middle
-  thumbnail: thumbs/jpcc.jpg
+  thumbnail: thumbs/cej.jpg
 - doi: 10.1016/j.coelec.2025.101654
   title: Recent developments in modeling the electric double layer with density functional theory
   authors:
@@ -165,7 +165,7 @@ published:
   group_authors:
   - S. A. Olusegun
   pi_position: middle
-  thumbnail: thumbs/Get1.jpg
+  thumbnail: thumbs/sustainable_energy_fuels.jpg
 - doi: 10.1039/d4cp04663c
   title: Theoretical determination of a model molecule for the catalytic upcycling of polyethylene and polypropylene
   authors:
@@ -208,7 +208,7 @@ published:
   group_authors:
   - S. A. Olusegun
   pi_position: middle
-  thumbnail: thumbs/ees1.jpeg
+  thumbnail: thumbs/eescatal_2025.jpg
 - doi: 10.1021/acscatal.4c05036
   title: Understanding Activity Trends in Electrochemical Dinitrogen Oxidation over Transition Metal Oxides
   authors:
@@ -252,7 +252,7 @@ published:
   group_authors:
   - S. A. Olusegun
   pi_position: middle
-  thumbnail: thumbs/aelccp1.jpg
+  thumbnail: thumbs/acsenergylett.jpg
 - doi: 10.1002/cphc.202400507
   title: Modeling Heterogeneous Catalysis and Electrocatalysis
   authors:
@@ -307,7 +307,7 @@ published:
   pi_position: last
   thumbnail: thumbs/cphc1.jpg
 - doi: 10.1016/j.xcrp.2024.102013
-  title: Sub-volt conversion of activated biochar and water for H2 production near equilibrium via biochar-assisted water electrolysis
+  title: Sub-volt conversion of activated biochar and water for H<sub>2</sub> production near equilibrium via biochar-assisted water electrolysis
   authors:
   - N. C. Kani
   - R. Chauhan
@@ -378,7 +378,7 @@ published:
   group_authors:
   - S. Olusegun
   pi_position: middle
-  thumbnail: thumbs/ees1.jpeg
+  thumbnail: thumbs/eescatal_2024.jpg
 - doi: 10.1039/d3sc05791g
   title: Understanding ion-transfer reactions in silver electrodissolution and electrodeposition from first-principles calculations and experiments
   authors:
@@ -400,9 +400,9 @@ published:
   site_year: 2024
   group_authors: []
   pi_position: middle
-  thumbnail: thumbs/Get.jpg
+  thumbnail: thumbs/chemsci.jpg
 - doi: 10.1002/aenm.202204236
-  title: Electrochemical Reduction of Nitrates on CoO Nanoclusters‐Functionalized Graphene with Highest Mass Activity and Nearly 100% Selectivity to Ammonia
+  title: Electrochemical Reduction of Nitrates on CoO Nanoclusters-Functionalized Graphene with Highest Mass Activity and Nearly 100% Selectivity to Ammonia
   authors:
   - N. C. Kani
   - N. H. L. Nguyen
@@ -428,7 +428,7 @@ published:
   pi_position: middle
   thumbnail: thumbs/aenm.jpg
 - doi: 10.1002/anie.202215938
-  title: Achievements, Challenges, and Perspectives on Nitrogen Electrochemistry for Carbon‐Neutral Energy Technologies
+  title: Achievements, Challenges, and Perspectives on Nitrogen Electrochemistry for Carbon-Neutral Energy Technologies
   authors:
   - X. Yang
   - S. Mukherjee
@@ -468,7 +468,7 @@ published:
   pi_position: middle
   thumbnail: thumbs/acscatal.jpg
 - doi: 10.1016/j.xcrp.2022.101053
-  title: CO2-free high-purity ethylene from electroreduction of CO2 with 4% solar-to-ethylene and 10% solar-to-carbon efficiencies
+  title: CO<sub>2</sub>-free high-purity ethylene from electroreduction of CO<sub>2</sub> with 4% solar-to-ethylene and 10% solar-to-carbon efficiencies
   authors:
   - A. Prajapati
   - N. C. Kani
@@ -512,7 +512,7 @@ published:
   site_year: 2022
   group_authors: []
   pi_position: middle
-  thumbnail: thumbs/jpcc.jpg
+  thumbnail: thumbs/jpclett.jpg
 - doi: 10.1021/acsenergylett.2c00167
   title: Pathways for the Formation of C<sub>2+</sub> Products under Alkaline Conditions during the Electrochemical Reduction of CO<sub>2</sub>
   authors:
@@ -530,7 +530,7 @@ published:
   site_year: 2022
   group_authors: []
   pi_position: first
-  thumbnail: thumbs/acs1.png
+  thumbnail: thumbs/acsenergylett_2021.png
 - doi: 10.1039/d2ee01485h
   title: 'The mechanism for acetate formation in electrochemical CO<sub>(2)</sub> reduction on Cu: selectivity with potential, pH, and nanostructuring'
   authors:
@@ -570,7 +570,7 @@ published:
   site_year: 2021
   group_authors: []
   pi_position: first
-  thumbnail: thumbs/acs1.png
+  thumbnail: thumbs/acsenergylett_2021.png
 - doi: 10.1039/d1ee01879e
   title: Solar-driven electrochemical synthesis of ammonia using nitrate with 11% solar-to-fuel efficiency at ambient conditions
   authors:
@@ -902,7 +902,7 @@ published:
   pi_position: middle
   thumbnail: thumbs/natcomm.jpg
 - doi: 10.1021/acs.jpcc.7b02383
-  title: Solvation Effects for Oxygen Evolution Reaction Catalysis on IrO<sub>2</sub> (110)
+  title: Solvation Effects for Oxygen Evolution Reaction Catalysis on IrO<sub>2</sub>(110)
   authors:
   - J. A. Gauthier
   - C. F. Dickens
