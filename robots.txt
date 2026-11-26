@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gauthierlab.github.io/sitemap.xml
