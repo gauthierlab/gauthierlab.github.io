@@ -1,23 +1,34 @@
+# Gauthier Research Lab website
 
-## Research Lab Website Design Template
+This repository holds the website of the Gauthier Research Lab in the Department of Chemical Engineering at Texas Tech University. The live site is at https://gauthierlab.github.io/.
 
-This is a research lab website template that can be used by university students / professors to create a simple website for showing and displaying their labs / research. 
+The site is plain static HTML styled with Bootstrap 2.3.1. GitHub Pages serves it directly from the `master` branch; there is no build step, so a change to an HTML file goes live as soon as it is pushed to `master`.
 
-I built this for my brother years ago, and you can find his current site here: [University of Illinois Energy Transport Research Lab](http://etrl.mechanical.illinois.edu/)
+## Pages
 
-You can find a live view of the template using the link below:
+| File | Contents |
+| --- | --- |
+| `index.html` | Home page: image carousel and a short description of the group. |
+| `people.html` | Principal investigator, graduate students, undergraduate researchers and alumni. |
+| `research.html` | Research overview and the four research themes. |
+| `publications.html` | Journal publications grouped by year, followed by submitted manuscripts. |
+| `resources.html` | Links to software documentation and Texas Tech resources. |
+| `contact.html` | Office address, map, phone, email and profile links. |
 
-https://photonlines.github.io/Research-Lab-Website/
+Shared styles are in `css/theme.css`.
 
-It was built using the libraries provided below:
+## Images
 
-- [Twitter Bootstrap (v2.3.1)](https://github.com/twbs/bootstrap)
-- [blueimp Gallery (v1.3.0)](https://github.com/blueimp/Gallery)
+Figures used on the pages live in `images/`. People photos and journal cover thumbnails live in `thumbs/`. Keep photos at most 800 px on the long edge so the pages stay fast to load.
 
-The stock photos used within the template are from [Unsplash.](https://unsplash.com/). 
+## Adding a publication
 
-The CSS social buttons are from [Nick La.](http://webdesignerwall.com/tutorials/css-social-buttons)
+Copy an existing entry block (the `<div class="row-fluid">` that holds the thumbnail, title, authors and journal link) in `publications.html`, paste it in the right year section, and edit the title, authors, journal text and both DOI links. Before saving, check the DOI by opening `https://doi.org/<doi>` in a browser and making sure it leads to the right paper.
 
-## License
+## Draft data for a rebuild
 
-The work is licensed under The MIT License.
+The `_rebuild/` directory holds draft data files for a planned rebuild of the site. It is not published: GitHub Pages builds with Jekyll, which ignores directories whose names start with an underscore.
+
+## Credit
+
+The layout derives from the MIT-licensed "Research Lab Website" Bootstrap template; see `LICENSE`.
