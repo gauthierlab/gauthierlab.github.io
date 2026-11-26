@@ -15,7 +15,7 @@ The site is plain static HTML styled with Bootstrap 2.3.1. GitHub Pages serves i
 | `resources.html` | Links to software documentation and Texas Tech resources. |
 | `contact.html` | Office address, map, phone, email and profile links. |
 
-Shared styles are in `css/theme.css`.
+`404.html` is the page GitHub Pages shows for any missing address; it uses root-absolute paths (such as `/css/theme.css`) so it works at any URL. `sitemap.xml` lists the six pages for search engines. Shared styles are in `css/theme.css`, and `js/site.js` fills in the "last updated" line in the footer from the deploy date.
 
 ## Images
 

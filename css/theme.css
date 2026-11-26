@@ -317,7 +317,6 @@ li.publication {
 #footer h3 {
 	font-size: 19px;
 	text-transform: uppercase;
-	font-family: BebasNeueRegular;
 	color: #8DBECE;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
@@ -334,6 +333,6 @@ li.publication {
 
 #footer p,
 #footer address {
-	color: #8F8F8F;
-	font-size: 11px;
+	color: #BDBDBD;
+	font-size: 13px;
 }
