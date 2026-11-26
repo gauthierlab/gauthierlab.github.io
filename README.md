@@ -30,7 +30,7 @@ The journal list in `publications.html` (everything between the `BEGIN generated
 3. If the paper starts a new year, add that year to the sidebar list near the top of `publications.html`.
 4. Commit both the data file and `publications.html`.
 
-Names listed under `group_authors` in a record, and the PI, are shown in bold. The "Submitted Manuscripts" list at the bottom of the page is still edited by hand.
+Names listed under `group_authors` in a record, and the PI, are shown in bold. The conference, submitted and preprint lists at the bottom of the page come from the `conference`, `submitted` and `preprints` lists in the same data file, which are maintained by hand from the PI's CV.
 
 ## Draft data for a rebuild
 

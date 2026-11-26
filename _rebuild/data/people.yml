@@ -125,12 +125,16 @@ graduate:
     email: ""
 
 undergraduate:
-  - name: Sabrina de Breau
+  - name: Sabrina De Breau
+    affiliation: ""
+    major: ""
+    project: ""
+  - name: Thomas Dillard
     affiliation: ""
     major: ""
     project: ""
 
-# Sorted by year (newest first), then by name.
+# Shown on the page by degree type (Ph.D., B.S., visiting REU students), then year (newest first), then last name.
 alumni:
   - name: Mikael Maraschin
     degree: Ph.D.
@@ -187,21 +191,20 @@ alumni:
     degree: B.S.
     year: 2023
     photo: ""
-  # Former undergraduate researchers; degree and year not yet recorded.
   - name: Salem Rice
-    degree: ""
-    year: ""
+    degree: B.S.
+    year: 2026
     photo: ""
   - name: Lindsey Bostain
-    degree: ""
-    year: ""
+    degree: B.S.
+    year: 2026
     photo: ""
   - name: Destin Maleka
-    degree: ""
-    year: ""
+    degree: B.S.
+    year: 2026
     photo: ""
   - name: Sean McDonald
-    degree: ""
-    year: ""
+    degree: B.S.
+    year: 2026
     affiliation: "Abilene Christian Univ."
     photo: ""

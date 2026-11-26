@@ -5,7 +5,7 @@ from _rebuild/data/publications.yml.
 Usage (from the repository root):  python3 _rebuild/build_publications.py
 
 Everything between the BEGIN/END marker comments in publications.html is
-replaced. Edit the data file, not the generated markup. Requires PyYAML.
+replaced (the journal list, and the conference/submitted/preprint lists). Edit the data file, not the generated markup. Requires PyYAML.
 """
 import html
 import pathlib
@@ -86,12 +86,38 @@ def build(records):
     return "".join(out), years, n
 
 
+OTHER_BEGIN = "<!-- BEGIN generated lists (edit _rebuild/data/publications.yml) -->"
+OTHER_END = "<!-- END generated lists -->"
+OTHER = [("conference", "Conference and Workshop Papers"),
+         ("submitted", "Submitted Manuscripts"),
+         ("preprints", "Preprints and Data")]
+
+
+def other_lists(data):
+    i = " " * 15
+    out = []
+    for key, heading in OTHER:
+        items = data.get(key) or []
+        if not items:
+            continue
+        out.append(f'{i}<section id="{key}">\n{i}   <div class="page-header">\n{i}      <h2>{heading}</h2>\n{i}   </div>\n{i}   <ol>\n')
+        for it in items:
+            line = f'{author_html(it)}. "{it["title"]}." {it["note"]}'
+            if it.get("link"):
+                line += f' <a href="{html.escape(it["link"])}">{html.escape(it.get("link_text", "Link"))}</a>'
+            out.append(f'{i}      <li class="publication">{line}</li>\n')
+        out.append(f'{i}   </ol>\n{i}</section>\n{i}<hr>\n')
+    return "".join(out)
+
+
 def main():
     data = yaml.safe_load(DATA.read_text(encoding="utf-8"))
     body, years, n = build(data["published"])
     page = PAGE.read_text(encoding="utf-8")
     a, b = page.index(BEGIN), page.index(END)
     page = page[: a + len(BEGIN)] + "\n" + body + " " * 18 + page[b:]
+    a, b = page.index(OTHER_BEGIN), page.index(OTHER_END)
+    page = page[: a + len(OTHER_BEGIN)] + "\n" + other_lists(data) + " " * 15 + page[b:]
     PAGE.write_text(page, encoding="utf-8")
     print(f"wrote {n} publications in {len(years)} year sections: {years}")
     print("If a year was added or removed, update the year list in the page sidebar.")

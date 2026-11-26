@@ -1,5 +1,109 @@
 # Generated from Crossref (doi.org records) vs. publications.html; see publications_discrepancies.md
 published:
+- doi: 10.1021/acs.jpcc.6c05130
+  title: Building Metal–Oxygen Connectivity in Amorphous Iridium Oxide through Electrochemical Cycling in Acid
+  authors:
+  - D. Shin
+  - D. D. Lekamge
+  - B. Chen
+  - M. Maraschin
+  - T. Liu
+  - J. R. Wilkes
+  - A. B. Maurer
+  - W. Li
+  - T. J. Murray
+  - J. Guo
+  - J. A. Gauthier
+  - D. Wang
+  - M. M. Waegele
+  journal: The Journal of Physical Chemistry C
+  journal_abbrev: J. Phys. Chem. C
+  year: 2026
+  year_online: 2026
+  volume: '130'
+  issue: '46'
+  pages: 16071-16083
+  group_authors:
+  - M. Maraschin
+  pi_position: middle
+  thumbnail: thumbs/jpcc.jpg
+- doi: 10.1016/j.checat.2026.101755
+  title: 'Transparent reporting for agentic catalysis enabled by artificial intelligence: Community guidelines and a publication checklist'
+  authors:
+  - H. Xin
+  - J. R. Kitchin
+  - N. López
+  - N. M. Schweitzer
+  - M. Abolhasani
+  - N. Artrith
+  - L. Árnadóttir
+  - K. Choudhary
+  - R. Ding
+  - A. I. Frenkel
+  - J. A. Gauthier
+  - B. R. Goldsmith
+  - A. Barati Farimani
+  - L. C. Grabow
+  - G. T. K. K. Gunasooriya
+  - G. Hu
+  - T. R. Josephson
+  - H. J. Kulik
+  - R. Kumar
+  - T. Laino
+  - H. Li
+  - X.-Y. Li
+  - W.-L. Li
+  - S. Linic
+  - C. Liu
+  - C. Liu
+  - F. Liu
+  - M. Liu
+  - P. Ma
+  - A. J. Medford
+  - S. Mukhopadhyay
+  - P. Ou
+  - C. Paolucci
+  - J. Peng
+  - C. Phillips
+  - M. D. Porosoff
+  - L. Qi
+  - S. Sun
+  - T. Szilvási
+  - J. Voss
+  - X. Wang
+  - K. T. Winther
+  - Q. Wu
+  - D. Zhang
+  - Z. Zhang
+  journal: Chem Catalysis
+  journal_abbrev: Chem Catal.
+  year: 2026
+  volume: '6'
+  issue: '8'
+  pages: '101755'
+  group_authors: []
+  pi_position: middle
+  thumbnail: thumbs/chemcatal.jpg
+- doi: 10.1021/acsami.6c03390
+  title: Overcoming Thermal Barrier to Magnesium Nitride Formation for Efficient Electrochemical Conversion of N<sub>2</sub> and H<sub>2</sub> to Ammonia at Ambient Conditions
+  authors:
+  - I. Goyal
+  - V. V. Gande
+  - N. Isa
+  - M. Maraschin
+  - J. A. Gauthier
+  - M. R. Singh
+  journal: ACS Applied Materials & Interfaces
+  journal_abbrev: ACS Appl. Mater. Interfaces
+  year: 2026
+  year_online: 2026
+  volume: '18'
+  issue: '26'
+  pages: 36717-36732
+  group_authors:
+  - M. Maraschin
+  pi_position: middle
+  thumbnail: thumbs/acsami.jpg
 - doi: 10.1021/acs.jpcc.5c08777
   title: Unraveling Fundamental Activity–Stability Relationships in Rutile Oxides
   authors:
@@ -920,48 +1024,44 @@ published:
   group_authors: []
   pi_position: first
   thumbnail: thumbs/jpcc.jpg
+# The three lists below are maintained by hand (source: the PI's CV).
+# Each item: authors (list), title, note (status or venue), and optional link + link_text.
+conference:
+- authors: [M.R. Muthyala, M. Askari, F. Sorourifar, E. Zhou, J.A. Gauthier, J.A. Paulson]
+  group_authors: [M. Askari]
+  title: "TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design"
+  note: "NeurIPS 2026 Workshop on AI for Accelerated Materials Design (AI4Mat), 2026."
+  link: https://openreview.net/forum?id=HdTlzVfvTU
+  link_text: Paper
 submitted:
-- authors:
-  - S.J. Sahoo
-  - M. Maraschin
-  - D.S. Levine
-  - Z. Ulissi
-  - C.L. Zitnick
-  - J.B. Varley
-  - J.A. Gauthier
-  - N. Govindarajan
-  - M. Shuaibi
-  title: The Open Catalyst 2025 (OC25) Dataset for Solvated Interfaces.
-  status: Submitted
-- authors:
-  - J.A. Gauthier
-  - K. Bruening
-  - K.A. Ritter
-  - D. Tuckerman
-  - M.Q. Hovish
-  title: Dynamic changes in hydrogen evolution catalysis impose an upper bound on electrochemical hydrogen storage in Pd.
-  status: Submitted
-- authors:
-  - I. Goyal
-  - V.V. Gande
-  - M. Maraschin
-  - J.A. Gauthier
-  - M.R. Singh
-  title: Overcoming Thermal Barrier to Magnesium Nitride Formation for Efficient Electrochemical Conversion of N<sub>2</sub> and H<sub>2</sub> to Ammonia at Ambient Conditions.
-  status: Submitted
-- authors:
-  - D. Shin
-  - D.D. Lekamge
-  - B. Chen
-  - M. Maraschin
-  - T. Liu
-  - J.R. Wilkes
-  - A.B. Maurer
-  - W. Li
-  - T.J. Murray
-  - J. Guo
-  - J.A. Gauthier
-  - M.M. Waegele
-  - D. Wang
-  title: Oxidation Driven Metal-Oxygen Connectivity Improves Stability of IrOx as a Water Oxidation Catalyst.
-  status: Submitted
+- authors: [Y. Chen, D. Zhang, Q. He, M. Abolhasani, V. Alexandrov, M. Andersen, N. Artrith, P. Bai, B.W.J. Chen, G. Di Liberto, J. Du, J.A. Gauthier, B.R. Goldsmith, I. Hamada, J.W. Han, H. Heenen, J. Hou, D.-e. Jiang, J. Kang, S.M. Kozlov, T. Lee, H. Li, L. Li, W.-L. Li, X.-Y. Li, Z.-H. Li, A.J. Logsdail, P. Ma, N. Marzari, A.J. Medford, D. Morgan, P. Ou, J. Peng, M.P. Polak, J. Qian, X. Qin, K. Reuter, A. Singh, A. Soon, C. Stampfl, Y.-Q. Su, T.L. Tan, T. Vegge, H. Wang, Z. Wang, R.B. Wexler, A. Xu, L. Zhang, H. Li]
+  title: "Agentic Catalysis: Toward Autonomous Scientific Discovery"
+  note: "Submitted."
+- authors: [S.A. Olusegun, S. Rice, V. Chauhan, L.H.Z. Feistel, J.A. Gauthier]
+  group_authors: [S.A. Olusegun, S. Rice, V. Chauhan, L.H.Z. Feistel]
+  title: "The pH effect in hydrogen evolution is a consequence of creating a solvated hydroxide ion"
+  note: "Submitted."
+  link: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007494/v1
+  link_text: Preprint
+- authors: [S.J. Sahoo, M. Maraschin, D.S. Levine, Z. Ulissi, C.L. Zitnick, J.B. Varley, J.A. Gauthier, N. Govindarajan, M. Shuaibi]
+  group_authors: [M. Maraschin]
+  title: "Insights into CO dimerization at electrified Cu interfaces from large-scale machine learning simulations"
+  note: "In revision, <i>Nat. Catal.</i>"
+  link: https://arxiv.org/abs/2509.17862v2
+  link_text: Preprint
+- authors: [J.A. Gauthier, K. Bruening, K.A. Ritter, D. Tuckerman, M.Q. Hovish]
+  title: "Dynamic changes in hydrogen evolution catalysis impose an upper bound on electrochemical hydrogen storage in Pd"
+  note: "In review at <i>Applied Catalysis A: General</i>."
+  link: https://chemrxiv.org/engage/chemrxiv/article-details/6864204e1a8f9bdab505ff8c
+  link_text: Preprint
+- authors: [P.J. Yiadom, J.A. Gauthier]
+  group_authors: [P.J. Yiadom]
+  title: "Computational cost reduction strategies for electrochemical activation barrier calculations"
+  note: "Book chapter, in review for <i>Introduction to Computational Electrochemistry: Modelling Methods and Applications in Interfacial Phenomena, Electrocatalysis, and Energy Storage</i>."
+preprints:
+- authors: [S.J. Sahoo, M. Maraschin, D.S. Levine, Z. Ulissi, C.L. Zitnick, J.B. Varley, J.A. Gauthier, N. Govindarajan, M. Shuaibi]
+  group_authors: [M. Maraschin]
+  title: "The Open Catalyst 2025 (OC25) Dataset for Solvated Interfaces"
+  note: "Dataset preprint, 2025."
+  link: https://arxiv.org/abs/2509.17862
+  link_text: arXiv
